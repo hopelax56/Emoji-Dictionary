@@ -15,6 +15,7 @@
 		D8CD78B823DF8BC700D226DE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8CD78B623DF8BC700D226DE /* LaunchScreen.storyboard */; };
 		D8CD78C323DF8BC800D226DE /* Emoji_DictionaryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8CD78C223DF8BC800D226DE /* Emoji_DictionaryTests.swift */; };
 		D8CD78CE23DF8BC800D226DE /* Emoji_DictionaryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8CD78CD23DF8BC800D226DE /* Emoji_DictionaryUITests.swift */; };
+		D8CD78DC23E0D39800D226DE /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D8CD78DB23E0D39800D226DE /* DefinitionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		D8CD78C923DF8BC800D226DE /* Emoji DictionaryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Emoji DictionaryUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D8CD78CD23DF8BC800D226DE /* Emoji_DictionaryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emoji_DictionaryUITests.swift; sourceTree = "<group>"; };
 		D8CD78CF23DF8BC800D226DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D8CD78DB23E0D39800D226DE /* DefinitionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				D8CD78AD23DF8BC500D226DE /* SceneDelegate.swift */,
 				D8CD78AF23DF8BC500D226DE /* ViewController.swift */,
 				D8CD78B123DF8BC500D226DE /* Main.storyboard */,
+				D8CD78DB23E0D39800D226DE /* DefinitionViewController.swift */,
 				D8CD78B423DF8BC700D226DE /* Assets.xcassets */,
 				D8CD78B623DF8BC700D226DE /* LaunchScreen.storyboard */,
 				D8CD78B923DF8BC700D226DE /* Info.plist */,
@@ -260,6 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D8CD78B023DF8BC500D226DE /* ViewController.swift in Sources */,
+				D8CD78DC23E0D39800D226DE /* DefinitionViewController.swift in Sources */,
 				D8CD78AC23DF8BC500D226DE /* AppDelegate.swift in Sources */,
 				D8CD78AE23DF8BC500D226DE /* SceneDelegate.swift in Sources */,
 			);
